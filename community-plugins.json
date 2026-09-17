@@ -54031,5 +54031,12 @@
     "author": "mian Fuqu",
     "description": "Browse the sidebar one folder at a time instead of scrolling an indented tree. Click into a folder, follow the breadcrumb back. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mianfuqu/obsidian-folder-nav"
+  },
+  {
+    "id": "habitude-checklist",
+    "name": "Habitude Checklist",
+    "author": "Habitude",
+    "description": "7-day habit checklist with streaks and weekly review. Markdown-native: habits live in Habitude/Habits.md, daily checks in Habitude/Log/YYYY-MM-DD.md. Free in-app AI coach via your own Gemini API key (BYOK).",
+    "repo": "legott-ai/habitude"
   }
 ]
